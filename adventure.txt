@@ -1,4 +1,4 @@
-change local
+change remote
 Socrates
 Joan of Arc
 Abraham Lincoln
